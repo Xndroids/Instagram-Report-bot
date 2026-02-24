@@ -22,6 +22,6 @@ jobs:
 
       - name: Push changes with PAT
         run: |
-          git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/ifeelscam/Instagram-Report-bot.git
+          git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/Xndroids/Instagram-Report-bot.git
           git push origin main
           
