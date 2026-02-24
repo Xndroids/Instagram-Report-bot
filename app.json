@@ -21,7 +21,7 @@
       "size": "eco"
     }
   },
-  "addons": [
+  "addons": [ 
     {
       "plan": "heroku-postgresql:hobby-dev"
     }
