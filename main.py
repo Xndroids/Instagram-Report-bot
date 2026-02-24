@@ -1,4 +1,4 @@
-# pls check out our 2026 version
+# pls check out our 2025 version Branch 
 
 import os
 import sys
@@ -281,6 +281,7 @@ if __name__ == "__main__":
     # Start the bot polling in a separate thread
     t = Thread(target=bot.polling)
     t.start()
+
 
 
 
