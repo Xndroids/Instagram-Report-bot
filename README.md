@@ -33,7 +33,7 @@ Fast • Automated • Clean • Reliable<br><br><b><u>Premium services availabl
 </p>
 
 <p align="center">
-<a href="https://t.me/metaui" target="_blank" style="
+<a href="https://t.me/SugerBaddie" target="_blank" style="
 color:#00ff99;
 font-size:18px;
 font-weight:bold;
